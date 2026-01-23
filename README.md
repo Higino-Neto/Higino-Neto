@@ -61,8 +61,9 @@ const higino = {
         ]
     },
     focoAtual: "Desenvolvimento full-stack com foco em arquitetura, performance e boas práticas",
-    experienciaRecente: "Sistema completo de aplicações para vagas com autenticação, upload de currículos, paginação server-side e controle de acesso",
-    projetoDestaque: "FindAJob — github.com/Higino-Neto/FindAJob"
+    experienciaRecente: "Sistema completo de aplicações para vagas com autenticação,
+    upload de currículos, paginação server-side e controle de acesso",
+    projetoDestaque: "Chess-Print — github.com/Higino-Neto/Chess-Print"
 };
 ```
 
