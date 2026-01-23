@@ -1,3 +1,5 @@
+
+
 # Hello, world! Eu sou o Higino
 
 <div align="center">
@@ -7,6 +9,25 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/higino-neto)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:higino.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Higino-Neto)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Higino-Neto&theme=react-dark&bg_color=0D1117&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Higino-Neto&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+
+</div>
+
+## 🚀 Projetos Destacados
+
+<div align="center">
+
+[![Chess Print](https://github-readme-stats.vercel.app/api/pin/?username=Higino-Neto&repo=Chess-Print&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/Higino-Neto/Chess-Print)
+[![FindAJob](https://github-readme-stats.vercel.app/api/pin/?username=Higino-Neto&repo=FindAJob&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/Higino-Neto/FindAJob)
 
 </div>
 
@@ -49,31 +70,12 @@ const higino = {
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Higino-Neto&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Higino-Neto&theme=react-dark&bg_color=0D1117&hide_border=true)
-
-</div>
-
-## 🚀 Projetos Destacados
-
-<div align="center">
-
-[![Chess Print](https://github-readme-stats.vercel.app/api/pin/?username=Higino-Neto&repo=Chess-Print&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/Higino-Neto/Chess-Print)
-[![FindAJob](https://github-readme-stats.vercel.app/api/pin/?username=Higino-Neto&repo=FindAJob&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/Higino-Neto/FindAJob)
-
-</div>
-
 ## Vamos conversar?
 
 - Aberto para oportunidades como **Desenvolvedor Fullstack**
 - Email: **higino.dev@gmail.com**
-- LinkedIn: **[/higino-neto](https://linkedin.com/in/higino-neto)**
-- 
+- LinkedIn: **[higino-neto](https://www.linkedin.com/in/higino-neto-7a353a363/)**
+
 ---
 
 <div align="center">
