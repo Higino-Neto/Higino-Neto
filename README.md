@@ -44,14 +44,15 @@ const higino = {
         ],
         backend: [
             "Node.js",
-            "REST API",
+            "Next App Router",
             "Prisma"
         ],
         database: [
             "PostgreSQL"
         ],
         auth: [
-            "OAuth (Google, GitHub)"
+            "OAuth (Google, GitHub)",
+            "JWT"
         ],
         infra: [
             "Supabase",
