@@ -8,11 +8,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/higino-neto)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:higino.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Higino-Neto)
 
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -22,7 +21,7 @@
 
 </div>
 
-## 🚀 Projetos Destacados
+## Projetos Destacados
 
 <div align="center">
 
@@ -31,24 +30,42 @@
 
 </div>
 
-## 🎯 Sobre mim
+## Sobre mim
 
 ```typescript
 const higino = {
-    código: ["JavaScript", "TypeScript", "Python"],
-    tecnologias: {
-        frontend: ["Next.js", "React", "Tailwind CSS"],
-        backend: ["FastAPI", "Node.js", "Prisma"],
-        devOps: ["Docker", "Git"],
-        ai: ["PyTorch", "YOLO11", "Computer Vision"]
+    código: ["TypeScript", "JavaScript"],
+    stack: {
+        frontend: [
+            "Next.js",
+            "React",
+            "Tailwind CSS",
+            "React Query"
+        ],
+        backend: [
+            "Node.js",
+            "REST API",
+            "Prisma"
+        ],
+        database: [
+            "PostgreSQL"
+        ],
+        auth: [
+            "OAuth (Google, GitHub)"
+        ],
+        infra: [
+            "Supabase",
+            "Docker",
+            "Git"
+        ]
     },
-    focoAtual: "Construindo aplicações full-stack e experimentando com IA",
-    aprendendo: "Deep Learning e arquitetura de sistemas escaláveis",
-    fato: "🏆 Campeão da Maratona de Programação SNCT 2025"
+    focoAtual: "Desenvolvimento full-stack com foco em arquitetura, performance e boas práticas",
+    experienciaRecente: "Sistema completo de aplicações para vagas com autenticação, upload de currículos, paginação server-side e controle de acesso",
+    projetoDestaque: "FindAJob — github.com/Higino-Neto/FindAJob"
 };
 ```
 
-## 🔥 Trabalhando em
+## Trabalhando em
 
 - **Chess Print**: IA que converte tabuleiros de xadrez impressos em digitais (YOLO11 + Next.js)
 - **FindAJob**: Sistema completo de aplicações para vagas com OAuth e boas práticas
@@ -80,6 +97,6 @@ const higino = {
 
 <div align="center">
   
-*"O código é poesia que executa"* ✨
+*"O código é poesia que executa"*
 
 </div>
