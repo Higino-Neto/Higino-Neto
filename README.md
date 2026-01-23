@@ -1,16 +1,83 @@
-## Hi there 👋
+# Hello, world! Eu sou o Higino
 
-<!--
-**Higino-Neto/Higino-Neto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+**Desenvolvedor Fullstack** apaixonado por criar soluções que fazem diferença 🚀
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/higino-neto)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:higino.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Higino-Neto)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## 🎯 Sobre mim
+
+```typescript
+const higino = {
+    código: ["JavaScript", "TypeScript", "Python"],
+    tecnologias: {
+        frontend: ["Next.js", "React", "Tailwind CSS"],
+        backend: ["FastAPI", "Node.js", "Prisma"],
+        devOps: ["Docker", "Git"],
+        ai: ["PyTorch", "YOLO11", "Computer Vision"]
+    },
+    focoAtual: "Construindo aplicações full-stack e experimentando com IA",
+    aprendendo: "Deep Learning e arquitetura de sistemas escaláveis",
+    fato: "🏆 Campeão da Maratona de Programação SNCT 2025"
+};
+```
+
+## 🔥 Trabalhando em
+
+- **Chess Print**: IA que converte tabuleiros de xadrez impressos em digitais (YOLO11 + Next.js)
+- **FindAJob**: Sistema completo de aplicações para vagas com OAuth e boas práticas
+- Estudando padrões de arquitetura e otimização de performance
+
+## Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Higino-Neto&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Higino-Neto&theme=react-dark&bg_color=0D1117&hide_border=true)
+
+</div>
+
+## 🚀 Projetos Destacados
+
+<div align="center">
+
+[![Chess Print](https://github-readme-stats.vercel.app/api/pin/?username=Higino-Neto&repo=Chess-Print&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/Higino-Neto/Chess-Print)
+[![FindAJob](https://github-readme-stats.vercel.app/api/pin/?username=Higino-Neto&repo=FindAJob&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/Higino-Neto/FindAJob)
+
+</div>
+
+## Vamos conversar?
+
+- Aberto para oportunidades como **Desenvolvedor Fullstack**
+- Email: **higino.dev@gmail.com**
+- LinkedIn: **[/higino-neto](https://linkedin.com/in/higino-neto)**
+- 
+---
+
+<div align="center">
+  
+*"O código é poesia que executa"* ✨
+
+</div>
