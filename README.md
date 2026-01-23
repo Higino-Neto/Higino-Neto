@@ -65,12 +65,6 @@ const higino = {
 };
 ```
 
-## Trabalhando em
-
-- **Chess Print**: IA que converte tabuleiros de xadrez impressos em digitais (YOLO11 + Next.js)
-- **FindAJob**: Sistema completo de aplicações para vagas com OAuth e boas práticas
-- Estudando padrões de arquitetura e otimização de performance
-
 ## Tech Stack
 
 <div align="center">
