@@ -91,6 +91,7 @@ const higino = {
 
 <div align="center">
   
-*"O código é poesia que executa"*
+*“Talk is cheap. Show me the code.”
+— Linus Torvalds*
 
 </div>
