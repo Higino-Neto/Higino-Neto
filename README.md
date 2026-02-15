@@ -1,10 +1,16 @@
+$ sudo start higino
 
+authenticating...
+access granted.
 
-# Hello, world! Eu sou o Higino
+# [higino/neto]$ Hello, world.
 
 <div align="center">
   
-**Desenvolvedor Fullstack** apaixonado por criar soluções que fazem diferença
+**Desenvolvedor Fullstack** trabalhando para transformar boas ideias em software de qualidade.
+
+*“The best way to predict the future is to invent it.” 
+— Alan Kay
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/higino-neto)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:higino.dev@gmail.com)
@@ -17,20 +23,10 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Higino-Neto&theme=react-dark&bg_color=0D1117&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Higino-Neto&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
-
-</div>
-
-## Projetos Destacados
-
-<div align="center">
-
-[![Chess Print](https://github-readme-stats.vercel.app/api/pin/?username=Higino-Neto&repo=Chess-Print&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/Higino-Neto/Chess-Print)
-[![FindAJob](https://github-readme-stats.vercel.app/api/pin/?username=Higino-Neto&repo=FindAJob&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](https://github.com/Higino-Neto/FindAJob)
-
 </div>
 
 ## Sobre mim
+#### hard-skils
 
 ```typescript
 const higino = {
@@ -64,6 +60,34 @@ const higino = {
     projetoDestaque: "Chess-Print — github.com/Higino-Neto/Chess-Print"
 };
 ```
+
+#### soft-skils
+
+``` CMD
+┌──────────────────────────────────────────────┐
+│  HIGINO.OS v1.0.0                           │
+│  build: fullstack.release                   │
+└──────────────────────────────────────────────┘
+
+> initializing runtime...
+> loading curiosity module.............OK
+> loading problem-solving engine.......OK
+> loading clean-code standards.........OK
+> establishing connection with world...
+
+HIGINO@dev:~$ ./introduce
+
+[LOG 00:00:01] compiling identity...
+[LOG 00:00:02] linking creativity...
+[LOG 00:00:03] deployment ready.
+
+stdout:
+Hello, world.
+
+process finished with exit code 0
+
+```
+
 
 ## Tech Stack
 
