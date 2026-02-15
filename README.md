@@ -1,13 +1,13 @@
-```console
+```
 ┌──────────────────────────────┐
-│  higino/neto :: initializing │
+│  h1g1no/neto :: initializing │
 └──────────────────────────────┘
+> [LOG 00:00:01] initializing runtime...
+> [LOG 00:00:02] cat README.md
+> [LOG 00:00:03] loading content...
+> [LOG 00:00:🕥] README.md
 
-$ cat README.md
-loading content...
-README.md  (1/120 lines)
-  │
-  ▼
+└─►
 ```
 
 <div align="center">
@@ -33,7 +33,6 @@ README.md  (1/120 lines)
 </div>
 
 ## Sobre mim
-#### hard-skils
 
 ```typescript
 const higino = {
@@ -70,7 +69,7 @@ const higino = {
 
 #### soft-skils
 
-```linux
+```console
 ┌──────────────────────────────────────────────┐
 │  HIGINO.OS v1.0.0                            │
 │  build: fullstack.release                    │
