@@ -3,11 +3,16 @@
 │  higino/neto :: initializing │
 └──────────────────────────────┘
 
-$ whoami
-higino/neto
+$ cat README.md
+loading content...
+README.md  (1/120 lines)
+  │
+  ▼
 ```
 
 <div align="center">
+
+# Higino Neto
   
 **Desenvolvedor Fullstack** trabalhando para transformar boas ideias em software de qualidade.
 
