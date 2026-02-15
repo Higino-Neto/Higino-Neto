@@ -63,10 +63,10 @@ const higino = {
 
 #### soft-skils
 
-``` CMD
+```linux
 ┌──────────────────────────────────────────────┐
-│  HIGINO.OS v1.0.0                           │
-│  build: fullstack.release                   │
+│  HIGINO.OS v1.0.0                            │
+│  build: fullstack.release                    │
 └──────────────────────────────────────────────┘
 
 > initializing runtime...
