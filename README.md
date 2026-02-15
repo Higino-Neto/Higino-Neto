@@ -67,34 +67,6 @@ const higino = {
 };
 ```
 
-#### soft-skils
-
-```console
-┌──────────────────────────────────────────────┐
-│  HIGINO.OS v1.0.0                            │
-│  build: fullstack.release                    │
-└──────────────────────────────────────────────┘
-
-> initializing runtime...
-> loading curiosity module.............OK
-> loading problem-solving engine.......OK
-> loading clean-code standards.........OK
-> establishing connection with world...
-
-HIGINO@dev:~$ ./introduce
-
-[LOG 00:00:01] compiling identity...
-[LOG 00:00:02] linking creativity...
-[LOG 00:00:03] deployment ready.
-
-stdout:
-Hello, world.
-
-process finished with exit code 0
-
-```
-
-
 ## Tech Stack
 
 <div align="center">
