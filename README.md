@@ -1,9 +1,11 @@
-$ sudo start higino/neto
+```console
+┌──────────────────────────────┐
+│  higino/neto :: initializing │
+└──────────────────────────────┘
 
-authenticating...
-access granted.
-
-# [higino/neto]$ Hello, world.
+$ whoami
+higino/neto
+```
 
 <div align="center">
   
